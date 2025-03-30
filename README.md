@@ -2,7 +2,7 @@
 Completing the first 15 days of 100 Days of Python Bootcamp and making my first capstone project , I wanted to share how it feels to create a simple game which is still popular in several countries . It is a mini version and I am looking forward to optimize it further in th upcomming days .
 
 # Game-Demo:
-![game-demo png](https://github.com/user-attachments/assets/4a15d252-a6a2-4adb-845c-91d79b76bb42)
+![game-demo](https://github.com/user-attachments/assets/cc6fee23-9e5e-4988-b8f4-ad69441e4c32)
 
 # Features:
 Random number generation for an unpredictable experience
